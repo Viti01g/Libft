@@ -1,6 +1,6 @@
 # Libft
 
-![42 Project](https://media.licdn.com/dms/image/v2/D5622AQFCq1AJnlUwEQ/feedshare-shrink_800/B56ZY0G8rnHoAg-/0/1744630961206?e=1772668800&v=beta&t=TCft226S7ya0j18XZa3AJ4mUsCS0WnSi-n0LGbqcquI)
+![42 Project](https://es.marketscreener.com/static/private-issuer-squared-BIULO.png)
 
 ## Description
 
