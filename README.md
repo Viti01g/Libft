@@ -1,6 +1,6 @@
 # Libft
 
-![42 Project](https://es.marketscreener.com/static/private-issuer-squared-BIULO.png)
+![42 Project](https://gitlab.com/uploads/-/system/project/avatar/10815567/libft.png)
 
 ## Description
 
