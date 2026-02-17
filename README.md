@@ -1,6 +1,6 @@
 # Libft
 
-![42 Project](https://user-content.gitlab-static.net/d0debb10b01bc49d8674944a291d76f6595fea13/68747470733a2f2f696d6775722e636f6d2f774475793879432e706e67)
+![42 Project](https://media.licdn.com/dms/image/v2/D5622AQFCq1AJnlUwEQ/feedshare-shrink_800/B56ZY0G8rnHoAg-/0/1744630961206?e=1772668800&v=beta&t=TCft226S7ya0j18XZa3AJ4mUsCS0WnSi-n0LGbqcquI)
 
 ## Description
 
